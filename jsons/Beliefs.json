@@ -2,71 +2,71 @@
     {
         "name": "God of the Depths",
         "type": "Pantheon",
-        "uniques": ["[+1 Food, +1 Faith, +1 Production, -1 Gold] from every [Ocean]"]
+        "uniques": ["[+2 Food, +2 Faith, +2 Production, +2 Gold] from every [Ocean]"]
     },
     {
         "name": "The Ancient Ones",
         "type": "Pantheon",
-        "uniques": ["[+1 Food, +1 Faith, +1 Gold] from every [Shrine] <when below [0] Happiness>"]
+        "uniques": ["[+2 Food, +2 Faith, +2 Gold] from every [Shrine] <when below [0] Happiness>"]
     },
     {
-        "name": "Mirthful Worship",
+        "name": "Worship for anything",
         "type": "Pantheon",
-        "uniques": ["[+1 Happiness] from every [Shrine] <when not at war>"]
+        "uniques": ["[+5 Food, +20 Faith, +10 Gold, +5 Culture, +4 Production, +10 Happiness, +5 Science] from every [Population]","May buy [Worker, Settler] units for [50] [Faith] [in cities following this religion]"]
     },
     {
         "name": "Lord of the Lies",
         "type": "Pantheon",
-        "uniques": ["[-2 Science, +2 Faith] from every [Library]"]
+        "uniques": ["[+4 Science, +4 Faith] from every [Library]"]
     },
 
     {
         "name": "Where no man has gone before",
         "type": "Follower",
-        "uniques": ["[+2 Science, +1 Culture, +1 Faith] from every [Mountain]"]
+        "uniques": ["[+3 Science, +2 Culture, +2 Faith] from every [Mountain]"]
     },
     {
         "name": "Freedom to Share",
         "type": "Follower",
-        "uniques": ["[+1 Science, +1 Culture, +1 Faith, +1 Happiness, -2 Gold] from each Trade Route"]
+        "uniques": ["[+3 Science, +2 Culture, +2 Faith, +2 Happiness, +4 Gold] from each Trade Route"]
     },
     {
         "name": "Transcendent Hexagons",
         "type": "Follower",
-        "uniques": ["[+1 Faith, +1 Food] from every [Oasis]"]
+        "uniques": ["[+3 Faith, +3 Food] from every [Oasis]"]
     },
     {
         "name": "Mess hall karaoke",
         "type": "Follower",
-        "uniques": ["[-1 Culture, +3 Food] from every [Barracks]"]
+        "uniques": ["[+3 Culture, +4 Food] from every [Barracks]"]
     },
     {
         "name": "March till you drop",
         "type": "Follower",
-        "uniques": ["[-1 Food] from every [Grassland]", "+[15%] Strength vs [All]"]
+        "uniques": ["[+3 Food] from every [Grassland]", "+[25%] Strength vs [All]"]
     },
 
 
     {
         "name": "False Friends",
         "type": "Founder",
-        "uniques": ["[+2 Science, -1 Culture] for every [4] global followers [in foreign cities]"]
+        "uniques": ["[+3 Science, +2 Culture] for every [4] global followers [in foreign cities]"]
     },
     {
         "name": "Inquisition",
         "type": "Founder",
-        "uniques": ["[+2 Happiness, +1 Production, -1 Science, -1 Culture] for every [2] global followers [in annexed cities]",
+        "uniques": ["[+3 Happiness, +2 Production, +1 Science, +1 Culture] for every [2] global followers [in annexed cities]",
                     "May buy [Inquisitor] units with [Gold] [in annexed cities]"]
     },
 
     {
         "name": "Forced Labour",
         "type": "Enhancer",
-        "uniques": ["May buy [Worker] units for [100] [Faith] [in cities following this religion]"]
+        "uniques": ["May buy [Worker, Settler] units for [50] [Faith] [in cities following this religion]"]
     },
     {
         "name": "Planned obsolescence",
         "type": "Enhancer",
-        "uniques": ["[-75]% Gold cost of upgrading <for [All] units>", "[+25]% maintenance costs <for [All] units>"]
+        "uniques": ["[-99]% Gold cost of upgrading <for [All] units>", "[-50]% maintenance costs <for [All] units>"]
     }
 ]
